@@ -5,3 +5,7 @@ The current voice assistants like Amazon Alexa, Google Assistant, Siri, etc., ha
 
 ## Ideology
 We are using the standard ASL language as a basis for the gesture recognition. Alexa records the gestures performed by the user, analyses them from a given set of commands, the one to which it matches with the maximum probability is chosen and then send to Alexa for a response to be generated which is then spoken out.
+
+## Demo
+
+https://drive.google.com/file/d/14IhIY_kwhqU0rYFWQIcOqvQkV7G3WEQW/view?usp=sharing
