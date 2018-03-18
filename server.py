@@ -1,7 +1,6 @@
 import sys
 import os
 from datetime import datetime
-from webcam import invoke_webcam
 from test_image import get_result
 from flask import Flask
 
