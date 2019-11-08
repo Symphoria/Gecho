@@ -119,7 +119,7 @@ nbconvert==4.1.0
 nbformat==4.0.1
 ndg-httpsclient==0.4.0
 networkx==2.1
-notebook==4.1.0
+notebook==5.7.8
 numpy==1.14.2
 oauth2==1.9.0.post1
 oauthlib==1.0.3
