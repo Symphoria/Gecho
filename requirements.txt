@@ -32,7 +32,7 @@ decorator==4.2.1
 defer==1.0.6
 diff-match-patch==20121119
 dirspec==13.10
-Django==1.8.3
+Django==2.2.24
 django-ajaximage==0.2.8
 django-apptemplates==0.0.1
 django-braces==1.8.1
