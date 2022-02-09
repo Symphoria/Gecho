@@ -191,7 +191,7 @@ stripe==1.65.0
 subprocess32==3.2.7
 tablib==0.10.0
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.5.3
 termcolor==1.1.0
 terminado==0.6
 tornado==4.3
